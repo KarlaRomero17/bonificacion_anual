@@ -1,0 +1,8 @@
+C:\Users\kromero\source\repos\EvaluacionPractica_parteuno\EvaluacionPractica_parteuno\bin\Debug\EvaluacionPractica_parteuno.exe.config
+C:\Users\kromero\source\repos\EvaluacionPractica_parteuno\EvaluacionPractica_parteuno\bin\Debug\EvaluacionPractica_parteuno.exe
+C:\Users\kromero\source\repos\EvaluacionPractica_parteuno\EvaluacionPractica_parteuno\bin\Debug\EvaluacionPractica_parteuno.pdb
+C:\Users\kromero\source\repos\EvaluacionPractica_parteuno\EvaluacionPractica_parteuno\obj\Debug\EvaluacionPractica_parteuno.csproj.AssemblyReference.cache
+C:\Users\kromero\source\repos\EvaluacionPractica_parteuno\EvaluacionPractica_parteuno\obj\Debug\EvaluacionPractica_parteuno.csproj.SuggestedBindingRedirects.cache
+C:\Users\kromero\source\repos\EvaluacionPractica_parteuno\EvaluacionPractica_parteuno\obj\Debug\EvaluacionPractica_parteuno.csproj.CoreCompileInputs.cache
+C:\Users\kromero\source\repos\EvaluacionPractica_parteuno\EvaluacionPractica_parteuno\obj\Debug\EvaluacionPractica_parteuno.exe
+C:\Users\kromero\source\repos\EvaluacionPractica_parteuno\EvaluacionPractica_parteuno\obj\Debug\EvaluacionPractica_parteuno.pdb
